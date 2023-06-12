@@ -1,4 +1,4 @@
-# oneAPI-practice
+# oneAPI-practice 基于oneAPI的语音识别
 a sound detection demo based on oneAPI.
 
 ## 1. 什么是oneAPI
